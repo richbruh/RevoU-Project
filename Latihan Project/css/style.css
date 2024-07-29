@@ -1,0 +1,566 @@
+.roboto-thin {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .roboto-bold {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .roboto-black {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .roboto-thin-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .roboto-light-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .roboto-regular-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .roboto-medium-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .roboto-bold-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .roboto-black-italic {
+    font-family: "Roboto", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+  .poppins-thin {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+  }
+  
+  .poppins-extralight {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+  }
+  
+  .poppins-light {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+  
+  .poppins-regular {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+  .poppins-medium {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+  }
+  
+  .poppins-semibold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+  .poppins-bold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  
+  .poppins-extrabold {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: normal;
+  }
+  
+  .poppins-black {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: normal;
+  }
+  
+  .poppins-thin-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: italic;
+  }
+  
+  .poppins-extralight-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: italic;
+  }
+  
+  .poppins-light-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+    font-style: italic;
+  }
+  
+  .poppins-regular-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: italic;
+  }
+  
+  .poppins-medium-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+  }
+  
+  .poppins-semibold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: italic;
+  }
+  /* poppins font*/
+  .poppins-bold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    font-style: italic;
+  }
+  
+  .poppins-extrabold-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 800;
+    font-style: italic;
+  }
+  
+  .poppins-black-italic {
+    font-family: "Poppins", sans-serif;
+    font-weight: 900;
+    font-style: italic;
+  }
+  
+/*Google Fonts*/
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 1px solid;
+    padding: 12px;
+    background-color: lightseagreen;
+}
+
+.nav-container{
+    display: flex;
+    
+
+}
+
+.nav-item{
+    margin:20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.logo-icon{
+    border:1px;
+}
+
+.main-content{
+    display: flex;
+}
+.content-item{
+    /*border: 1px solid;*/
+    width: 100%;
+    height: 250px
+}
+
+
+.main-title{
+    text-align:center;
+}
+
+.main-content-banner{
+    margin:20px;
+    height: 300px;
+    border: 1px solid;
+    width: 90%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url("https://e0.pxfuel.com/wallpapers/434/478/desktop-wallpaper-site-site-anime-background-pemandangan-anime.jpg")
+}
+
+.main-item{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.item-icon{
+    height: 50px;
+    width: 50px;
+    border: 1px solid;
+    border-radius: 50%;
+    background-image: url('https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.identity{
+    margin-left: 10px;
+}
+.quotes{
+    text-align: center;
+}
+
+.contact-us{
+    display:flex;
+    flex-direction:column;
+    justify-content: center;
+    align-items: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#form {
+  background-color: gray;
+  border-radius: 10px;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.normal-input {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 30px;
+  border-radius: 5px;
+  border: 1px solid;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+
+#submit-btn {
+  background-color: #fff;
+  border: 0 solid #e2e8f0;
+  border-radius: 1.5rem;
+  color: #0d172a;
+  cursor: pointer;
+  font-family: "Basier circle", -apple-system, system-ui, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+  font-size: 20px;
+  font-weight: 600;
+  padding: 20px;
+  text-decoration: none;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+  width: 200px;
+  text-align: center;
+}
+
+#submit-btn:hover {
+    background-color: #1e293b;
+    color: #fff;
+}
+
+label{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* CSS */
+#submit-btn {
+  display: flex;
+  background-color: #fff;
+  border: 0 solid #e2e8f0;
+  border-radius: 1.5rem;
+  box-sizing: border-box;
+  color: #0d172a;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+  font-size: 20px;
+  font-weight: 600;
+  line-height:0px;
+  padding-top:20px;
+  padding-bottom:20px;
+  justify-content: center;
+  text-decoration: none #0d172a solid;
+  text-decoration-thickness: auto;
+  transition: all .1s cubic-bezier(.4, 0, .2, 1);
+  box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: 200px;
+}
+
+#submit-btn:hover {
+  background-color: #1e293b;
+  color: #fff;
+}
+
+/* Styles for tablets */
+@media (min-width: 600px) and (max-width: 768px) {
+  .content-item {
+    width: 90%;
+    height: auto;
+  }
+
+  .normal-input {
+    width: 250px;
+  }
+
+  #submit-btn {
+    width: 180px;
+    font-size: 18px;
+  }
+
+  .information-details {
+    width: 90%;
+    height: auto;
+  }
+
+  .features-container {
+    padding: 15px;
+  }
+
+  .feature-text {
+    font-size: 14px;
+  }
+
+  .package-title {
+    height: 250px;
+  }
+}
+
+/* Styles for phones */
+@media (max-width: 599px) {
+  .content-item {
+    width: 100%;
+    height: auto;
+  }
+
+  .normal-input {
+    width: 200px;
+  }
+
+  #submit-btn {
+    width: 150px;
+    font-size: 16px;
+  }
+
+  .information-details {
+    width: 100%;
+    height: auto;
+  }
+
+  .features-container {
+    padding: 10px;
+  }
+
+  .feature-text {
+    font-size: 12px;
+  }
+
+  .package-title {
+    height: 200px;
+  }
+}
+/* CSS */
+
+.information-details{
+    display:flex;
+    justify-content: left;
+    text-align:justify;
+    padding: 20px;
+    height: 300px;
+    width: 650px;
+    
+}
+
+.features-container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+.intro-text {
+  font-size: 16px;
+  margin-bottom: 20px;
+}
+
+.features-list {
+  list-style: none;
+  padding: 0;
+}
+
+.feature-item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.feature-number {
+  background-color: #e0e7ff;
+  color: #1d4ed8;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+  font-weight: bold;
+}
+
+.feature-text {
+  font-size: 16px;
+  color: #555;
+}
+
+.package-icon-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.package-title{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color: lightseagreen;
+    color:white;
+    height: 300px;
+    width: 100%;
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.package-list{ 
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+    padding: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: auto;
+    height: 500px;
+    width: 100%;
+}
+
+.row-container-1{
+    display:flex;
+    flex-direction:row;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    height: 250px;
+    width: 100%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.row-container-2{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  height: 250px;
+  width:100%;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.package-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  background-color: rgb(197, 195, 195);
+  border-radius: 50%;
+  margin-right: 10px;
+}
+.package-icon img{
+  height: 20px;
+  width:20px;
+
+}
+
+.package-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  padding: 10px;
+  box-sizing: border-box;
+}
+
+.item-title {
+  font-size: 16px;
+  font-weight: bold;
+  font-family: "Poppins", sans-serif;
+}
+
+.closing-argument {
+  text-align: center;
+  padding: 20px;
+  width: auto;
+  background-color: rgb(9, 155, 165);
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  height: 300px;
+}
+.footer {
+  text-align: center;
+  padding: 10px;
+  background-color: #f1f1f1;
+}
